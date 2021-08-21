@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**HavanaLee/HavanaLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, I'm jiachenli, a passionate expert Front End engineer .
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning typescript，react
+- 📫 How to reach me: lijiachen633@gmail.com
+- ✨ 博客 https://juejin.cn/user/1486195453595736
+
+📈 My GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HavanaLee" />
+</a>
